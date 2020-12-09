@@ -14,7 +14,7 @@ const db =knex({
   connection: {
     host : 'localhost',
     user : 'postgres',
-    password : 'd33d41',
+    password : '',
     database : 'postgres'
   }
 });
